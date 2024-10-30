@@ -1,0 +1,12 @@
+Package: enigma2-plugin-skins-aglare-fhd-pli
+Version: 4.5_r0
+Section: base
+Priority: required
+Architecture: all
+Maintainer: mnasr
+Description: enigma2-plugin-skins-aglare-fhd-pli
+Depends: enigma2-plugin-extensions-bitrate
+Source: enigma2-plugin-skins-aglare-fhd-pli.bb
+Homepage: 
+OE: enigma2-plugin-skins-aglare-fhd-pli
+License: GPLv2+
